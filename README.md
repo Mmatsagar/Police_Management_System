@@ -1,0 +1,2 @@
+# Police_Management_System
+Police_Management_System(DBMS Project) A database for Police created using Django Framework , where the policemen can review all civilians's database and the criminal database.Also a civilian has the functionality to review a police station, fetch some details from the list of police stations and complaint against policemen which will be reviewed later by their senior officials.
